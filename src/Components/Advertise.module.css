@@ -42,6 +42,7 @@
   border: none;
   cursor: pointer;
   margin-top: 4px;
+  margin-bottom: 8px;
   margin-right: auto;
   margin-left: auto;
   text-decoration: none;
@@ -52,7 +53,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  height: 40vh;
+  height: 50vh;
   width: 100%;
 }
 
