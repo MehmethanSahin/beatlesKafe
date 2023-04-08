@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/beatlesKafe/static/css/main.0ab39766.css",
+    "main.js": "/beatlesKafe/static/js/main.72a211f9.js",
+    "index.html": "/beatlesKafe/index.html",
+    "main.0ab39766.css.map": "/beatlesKafe/static/css/main.0ab39766.css.map",
+    "main.72a211f9.js.map": "/beatlesKafe/static/js/main.72a211f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ab39766.css",
+    "static/js/main.72a211f9.js"
+  ]
+}
