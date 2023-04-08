@@ -1,0 +1,68 @@
+.contactSection {
+  margin-top: 50px;
+  background-color: #f2f2f2;
+  padding: 30px;
+  text-align: center;
+}
+
+.contactSection h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.contactSection ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 20px 0;
+}
+
+.contactSection li {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #666;
+}
+
+.contactSection li span {
+  margin-left: 10px;
+  font-size: 18px;
+  line-height: 1.2;
+}
+
+.socialMediaIcons {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.socialMediaIcons a {
+  display: block;
+  width: 40px;
+  height: 40px;
+  background-color: #333;
+  border-radius: 50%;
+  margin-right: 10px;
+  color: #fff;
+  line-height: 40px;
+  text-align: center;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.socialMediaIcons a:hover {
+  background-color: #3b5998; 
+}
+
+.socialMediaIcons a:nth-child(2):hover {
+  background-color: #e4405f; 
+}
+
+.socialMediaIcons a:last-child:hover {
+  background-color: #00acee; 
+}
+
+.socialMediaIcons a svg {
+  font-size: 20px;
+  vertical-align: middle;
+}

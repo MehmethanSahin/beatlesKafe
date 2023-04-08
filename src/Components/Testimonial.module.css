@@ -1,0 +1,55 @@
+.container-fluid {
+  background-color: #f8f9fa;
+}
+
+h2 {
+  color: #495057;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.card {
+  background-color: #fff;
+  border: none;
+  border-radius: 10px;
+
+  padding: 30px;
+}
+
+.card p {
+  color: #6c757d;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  margin-bottom: 30px;
+}
+
+.card img {
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+}
+
+.card h5 {
+  color: #212529;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+
+.card p:last-child {
+  margin-bottom: 0;
+}
+
+@media only screen and (max-width: 767px) {
+  .card {
+    padding: 20px;
+  }
+
+  .card img {
+    height: 60px;
+    width: 60px;
+  }
+}
